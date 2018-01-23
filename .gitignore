@@ -1,0 +1,14 @@
+# Visual Studio related stuff
+/.vs
+
+# Binary and project files
+/Binaries
+/Build
+/Debug
+/DerivedDataCache
+/Intermediate
+/Saved
+
+*.sdf
+*.sln
+*.opendb
